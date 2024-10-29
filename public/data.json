@@ -1,0 +1,338 @@
+[
+  {
+    "id": 1,
+    "question": "What is the output of the following code:",
+    "code": "console.log(typeof null);",
+    "options": [
+      "null",
+      "object",
+      "undefined",
+      "number"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 2,
+    "question": "What will be the output of this code:",
+    "code": "console.log(0.1 + 0.2 === 0.3);",
+    "options": [
+      "true",
+      "false",
+      "undefined",
+      "TypeError"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 3,
+    "question": "What is the output of the following code:",
+    "code": "console.log([] + {});",
+    "options": [
+      "undefined",
+      "[object Object]",
+      "{}",
+      "[]"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 4,
+    "question": "What will be the output of this code:",
+    "code": "console.log(1 + '1');",
+    "options": [
+      "11",
+      "2",
+      "NaN",
+      "TypeError"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "What is the output of the following code:",
+    "code": "console.log(3 == '3');",
+    "options": [
+      "true",
+      "false",
+      "undefined",
+      "TypeError"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "What is the output of this code:",
+    "code": "console.log(!!'');",
+    "options": [
+      "true",
+      "false",
+      "undefined",
+      "TypeError"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 7,
+    "question": "What will be the output of this code:",
+    "code": "console.log(2 + '2' - 1);",
+    "options": [
+      "21",
+      "3",
+      "TypeError",
+      "NaN"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 8,
+    "question": "What is the result of the following code:",
+    "code": "console.log('a' + + 'b');",
+    "options": [
+      "ab",
+      "NaN",
+      "undefined",
+      "TypeError"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "question": "What will be logged by the following code:",
+    "code": "console.log([] == false);",
+    "options": [
+      "true",
+      "false",
+      "undefined",
+      "TypeError"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "question": "What does this code output:",
+    "code": "console.log(typeof NaN);",
+    "options": [
+      "number",
+      "undefined",
+      "NaN",
+      "object"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "What is the output of the following code:",
+    "code": "console.log(1 === '1');",
+    "options": [
+      "true",
+      "false",
+      "undefined",
+      "TypeError"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 12,
+    "question": "What will be the output of this code:",
+    "code": "console.log(typeof []);",
+    "options": [
+      "array",
+      "object",
+      "undefined",
+      "string"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 13,
+    "question": "What does the following code output:",
+    "code": "console.log(1 + '2' + 3);",
+    "options": [
+      "123",
+      "6",
+      "NaN",
+      "TypeError"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "question": "What will be logged by this code:",
+    "code": "console.log(!!null);",
+    "options": [
+      "true",
+      "false",
+      "undefined",
+      "TypeError"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 15,
+    "question": "What is the result of this code:",
+    "code": "console.log(2 * '2');",
+    "options": [
+      "4",
+      "22",
+      "NaN",
+      "TypeError"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "question": "What does the following code output:",
+    "code": "console.log(5 == '5');",
+    "options": [
+      "true",
+      "false",
+      "undefined",
+      "TypeError"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 17,
+    "question": "What is the output of this code:",
+    "code": "console.log('5' - 3);",
+    "options": [
+      "2",
+      "53",
+      "undefined",
+      "TypeError"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "question": "What will be logged by this code:",
+    "code": "console.log(3 === 3);",
+    "options": [
+      "true",
+      "false",
+      "undefined",
+      "TypeError"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "question": "What is the output of the following code:",
+    "code": "console.log('Hello' + ' ' + 'World');",
+    "options": [
+      "Hello World",
+      "HelloWorld",
+      "undefined",
+      "TypeError"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "question": "What will be the output of this code:",
+    "code": "console.log(5 > 3 > 1);",
+    "options": [
+      "true",
+      "false",
+      "undefined",
+      "TypeError"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 21,
+    "question": "What does the following code output:",
+    "code": "console.log('a' + 1 + 2);",
+    "options": [
+      "a12",
+      "a3",
+      "undefined",
+      "TypeError"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "question": "What is the output of this code:",
+    "code": "console.log(5 + '3' + 2);",
+    "options": [
+      "532",
+      "10",
+      "NaN",
+      "TypeError"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 23,
+    "question": "What will be logged by this code:",
+    "code": "console.log(!!'Hello');",
+    "options": [
+      "true",
+      "false",
+      "undefined",
+      "TypeError"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 24,
+    "question": "What is the output of this code:",
+    "code": "console.log(5 + 3 + '8');",
+    "options": [
+      "88",
+      "16",
+      "NaN",
+      "TypeError"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 25,
+    "question": "What will be the output of this code:",
+    "code": "console.log('10' - '5');",
+    "options": [
+      "5",
+      "15",
+      "undefined",
+      "TypeError"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 26,
+    "question": "What does this code output:",
+    "code": "console.log(typeof (1 + 2 + '3'));",
+    "options": [
+      "string",
+      "number",
+      "undefined",
+      "TypeError"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 27,
+    "question": "What is the output of the following code:",
+    "code": "console.log(5 == '5' && 3 === 3);",
+    "options": [
+      "true",
+      "false",
+      "undefined",
+      "TypeError"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 28,
+    "question": "What will be logged by this code:",
+    "code": "console.log((1 + 2) * 3);",
+    "options": [
+      "9",
+      "6",
+      "undefined",
+      "TypeError"
+    ],
+    "correctAnswer": 0
+  }
+]
