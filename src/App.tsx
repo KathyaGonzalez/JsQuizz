@@ -20,7 +20,7 @@ function App() {
             </Typography>
           </Stack>
       </Container>
-
+      
       {questions.length === 0 ? <Start/>: 
         <>
         {finished? <Complete/>: <Game/>}

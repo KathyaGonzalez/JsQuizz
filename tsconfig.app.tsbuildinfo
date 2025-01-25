@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/types.d.ts","./src/vite-env.d.ts","./src/assets/JavaScript.tsx","./src/components/Complete.tsx","./src/components/Game.tsx","./src/components/Start.tsx","./src/hooks/useQuestionData.ts","./src/store/questions.ts"],"version":"5.6.3"}
